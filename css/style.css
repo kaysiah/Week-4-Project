@@ -1,0 +1,90 @@
+#gray{
+	background-color: gray;
+}
+#blue{
+	background-color: blue;
+}
+#yellow{
+	background-color: yellow;
+}
+
+#green{
+	background-color: green;
+}
+#orange{
+	background-color: orange;
+}
+
+#black{
+	background-color: black;
+}
+
+#fuchsia{
+	background-color: fuchsia;
+}
+
+#content{
+	margin-top: 75px;
+	text-align: center;
+}
+
+body {
+	background-color: fuchsia;
+}
+
+.photothumb{
+	height: 300px;
+	width: 400px;
+}
+
+.Ni {
+	height: 1200px;
+	width: 600px;
+	margin-top: 75px;
+}
+.img-circle {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.Kay{
+	font-weight: bold;
+	text-align: center;
+	font-size: 50px;
+}
+
+.KK{
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 25px;
+	font-weight: bold;
+
+}
+ .Hey{
+ 	border: 10px dotted;
+ 	margin-top: 10px;
+ 	font-size: 20px;
+ 	margin-bottom: 30px;
+ }
+
+ .price{
+ 	font-size: 30px;
+ 	margin-bottom: 50px;
+ }
+
+ .Bye {
+ 	background-color:blue;
+ 	height: 100px;
+ 	width: 100px;
+ 	font-weight: bold;
+ 	font-size: 15px;
+ }
+.Money{
+	background-color:red;
+ 	height: 100px;
+ 	width: 100px;
+ 	font-weight: blue;
+ 	font-size: 15px;
+ 	float: right;
+}
